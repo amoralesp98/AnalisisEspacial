@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # ---------------------------------------------------------------------------
-# Autor: Blas Morales
+# Autor: Blas Morales Palacios
 # Correo electrónico: amoralesp98@gmail.com
 # Descripción: Este script hace una alineación autimatica del punto a un poligono tomando en cuenta un campo en comun.
 # Instrucciones de uso: python verificar_urls.py urls.txt
